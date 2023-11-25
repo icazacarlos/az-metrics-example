@@ -4,4 +4,4 @@ echo "# --------------------------------------"
 echo "  Send build metrics to DevOps Central"
 echo -e "# --------------------------------------\n"
 
-logCommand "NOOP"
+echo "##[command]NOOP"
